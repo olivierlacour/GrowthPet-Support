@@ -365,3 +365,6 @@ h2 {
     height: 560px;
   }
 }
+.feature-section--measure {
+  background: var(--page-bg);
+}
